@@ -11,3 +11,5 @@ build/
 
 # Ignorar configurações locais
 .vscode/
+
+.next/
